@@ -1,5 +1,5 @@
 - 👋🏼 Hi, I’m Sawsan
-- 👩🏻‍🎓 I’m currently a Data Analytics Master of Science candidate at University of Houston Downtown
+- 👩🏻‍🎓 Master of Science in Data Analytics from University of Houston Downtown
 - 🧩 Dealing with data is like playing puzzles, and I love it!
 
 <!---
